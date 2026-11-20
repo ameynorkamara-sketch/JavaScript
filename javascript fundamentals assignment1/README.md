@@ -1,5 +1,11 @@
 # JavaScript Fundamentals Assignment
+Student Name: Ameynor Kamara
 
+University: Limkokwing University Sierra Leone
+
+Course: JavaScript Fundamentals
+
+Assignment: JavaScript Fundamentals Assignment
 ## About
 This repository contains my JavaScript Fundamentals Assignment, covering basic JavaScript concepts and practical exercises.
 
